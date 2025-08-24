@@ -1,12 +1,25 @@
 # Node modules
 node_modules/
 
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
 # Environment variables
 .env
 
-# React build folder
+# Build folders
 /build
+/dist
 
-backend/deleteAdmin.js
-backend/createAdmin.js
-backend/testMail.js
+# VSCode settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test and admin scripts in backend
+backend/*Admin.js
+backend/test*.js
