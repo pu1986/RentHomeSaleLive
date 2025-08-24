@@ -23,3 +23,5 @@ Thumbs.db
 # Test and admin scripts in backend
 backend/*Admin.js
 backend/test*.js
+
+RentHomeSaleLive/
