@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# React build folder
+/build
+
+backend/deleteAdmin.js
+backend/createAdmin.js
+backend/testMail.js
